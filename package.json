@@ -1,0 +1,25 @@
+{
+  "name": "wepower-container",
+  "version": "1.0.0",
+  "description": "Container holding wepower micro-services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragonpiper/wepower-container.git"
+  },
+  "keywords": [
+    "werpower",
+    "docker",
+    "scarapper",
+    "javascript"
+  ],
+  "author": "Odell Joseph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dragonpiper/wepower-container/issues"
+  },
+  "homepage": "https://github.com/dragonpiper/wepower-container#readme"
+}
